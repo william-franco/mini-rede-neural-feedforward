@@ -1,6 +1,6 @@
 # Mini Rede Neural Feedforward
 
-Under construction.
+A from-scratch feedforward neural network (1-8-1) with sigmoid activation and backpropagation, training to approximate f(x) = x². Live training metrics and test predictions shown in a ratatui dashboard.
 
 ## ScreenShots
 
